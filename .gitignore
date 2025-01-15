@@ -1,7 +1,6 @@
 
 
 ### Data ###
-data/
 *.csv
 *.dat
 *.efx
@@ -14,6 +13,10 @@ data/
 *.tax2010
 *.vcf
 *.xml
+
+## specific data files
+qualification_performance.pkl
+rolling_performance.pkl
 
 ### logs ###
 logs.log
