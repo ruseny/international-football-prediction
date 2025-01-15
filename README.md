@@ -24,4 +24,4 @@ These are the models created in the notebooks mentioned above.
 
 ## Requirements
 
-Data processing mainly relies on `pandas`, and modelling makes use of `PyCaret` workflows. An environment file has been included. 
+Data processing mainly relies on `pandas`, and modelling makes use of `PyCaret` workflows. The project has been conducted in a conda virtual environment, and the environment file is included.
